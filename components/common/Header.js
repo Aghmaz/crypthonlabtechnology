@@ -34,6 +34,11 @@ const Header = () => {
       <div className="container">
         <div className="lo" style={{ display: "flex" }}>
           <Link href="/">
+            {/* <img
+              src="/images/crypthonlabtransparent.png"
+              width={100}
+              height={50}
+            /> */}
             <TitleLogo title="Lab" caption="Crypthon" className="logomin" />
           </Link>
         </div>
